@@ -1,0 +1,11 @@
+checkpoints/**
+data/**
+data-bin/**
+fairseq
+iwslt14.tokenized.de-en
+mosesdecoder
+subword-nmt
+venv
+!checkpoints/checkpoint_best.pt
+!data-bin/iwslt14.tokenized.de-en/dict*
+!iwslt14.tokenized.de-en/code

@@ -1,0 +1,7 @@
+fairseq/
+iwslt14.tokenized.de-en/
+mosesdecoder/
+orig/
+__pycache__/
+subword-nmt/
+venv
